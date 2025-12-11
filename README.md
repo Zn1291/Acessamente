@@ -1,5 +1,6 @@
 # Acessamente
 Aplicativo para facilitar acesso a apoio terapeutico com valores acessíveis
+Protótipo navegavel:https://bit.ly/Prototipo_figma_acessamente
 # Acessamente
 
 Plataforma digital para intermediação de apoio psicológico, voltada à democratização do acesso à terapia para indivíduos das classes média e baixa. O projeto conecta profissionais da psicologia dispostos a oferecer atendimentos gratuitos ou com valores sociais a usuários que necessitam de suporte terapêutico, mas enfrentam barreiras financeiras ou geográficas.
